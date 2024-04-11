@@ -1,0 +1,69 @@
+.contenedor {
+
+width: 100%;
+height: 1200px;
+background-color: powderblue;
+display: flex;
+flex-direction: column;
+}
+
+.encabezado{
+
+width: 100%;
+height: 200px;
+background-color: rgb(250, 104, 136);
+
+font-size:50px ;
+
+}
+
+.biologia{
+
+width: 100%;
+height: 350px;
+background-color: aqua;
+
+font-size: 20px;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.quimica{
+
+width: 100%;
+height: 410px;
+background-color: rgb(61, 190, 61);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size: 20px;
+
+
+}
+
+.matematicas{
+
+width: 100%;
+height: 350px;
+background-color: gold;
+
+
+}
+
+.tecnologia{
+
+width: 100%;
+height: 350px;
+background-color: mediumslateblue;
+
+
+}
+
+.ingles{
+
+width: 100%;
+height: 350px;
+background-color: salmon;
+
+
+}

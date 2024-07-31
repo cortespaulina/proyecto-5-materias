@@ -5,14 +5,15 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(173, 129, 129);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("R.jfif");
+
+    background-image: url("carretera.jpg");
     background-repeat: no-repeat;
 
 }
@@ -23,12 +24,22 @@ height: 300px;
 width: 600px;
 background-image: url("partes-circuitos-electricos.jpg");
 background-repeat: no-repeat;
-float: right;
+float: inline-start;
 
 }
 .titulo{
 font-size: 50px;
 color: rgb(133, 60, 129);
 text-align: center;
+
+}
+
+.img2{
+
+height: 300px;
+width: 600px;
+background-image: url("mate.gif");
+background-repeat: no-repeat;
+float: center;
 
 }

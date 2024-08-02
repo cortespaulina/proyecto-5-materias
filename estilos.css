@@ -13,8 +13,8 @@
 }
 body{
 
-    background-image: url("carretera.jpg");
-    background-repeat: no-repeat;
+    background-image: url("az.jpeg");
+    background-repeat: repeat;
 
 }
 
@@ -38,8 +38,87 @@ text-align: center;
 
 height: 300px;
 width: 600px;
-background-image: url("mate.gif");
+background-image: url("mate1.gif");
 background-repeat: no-repeat;
 float: center;
 
+}
+
+.img3{
+
+height: 300px;
+width: 600px;
+background-image: url("mate2.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img4{
+
+height: 300px;
+width: 600px;
+background-image: url("mate3.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img5{
+
+height: 300px;
+width: 600px;
+background-image: url("mate4.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img6{
+
+    height: 300px;
+    width: 600px;
+    background-image: url("mate5.png");
+    background-repeat: no-repeat;
+    float: center;
+    
+    
+}
+
+.img7{
+
+    height: 300px;
+    width: 600px;
+    background-image: url("mate6.png");
+    background-repeat: no-repeat;
+    float: center;
+
+}
+
+.img8{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("ciclo menstrual.jpg");
+    background-repeat: no-repeat;
+   float: center;
+
+}
+
+.img9{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("fases menstuales.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
+}
+
+.img10{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("hormonas.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
 }

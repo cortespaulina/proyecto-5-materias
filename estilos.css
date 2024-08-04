@@ -122,3 +122,59 @@ float: center;
     background-repeat: no-repeat; 
     float: inline-start;
 }
+
+.img11{
+
+    height: 200px;
+    width: 200px;
+    background-image: url("ingles1.jpg");
+    background-repeat: no-repeat; 
+    float: initial;
+}
+
+.img12{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("ingles2.png");
+    background-repeat: no-repeat;
+    float: initial;
+}
+
+.img13{
+
+    height: 200px;
+    width: 300px;
+    background-image: url("ingles3.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
+
+}
+
+.img14{
+
+    height: 400px;
+    width: 700px;
+    background-image: url("ingles4.png");
+    background-repeat: no-repeat; 
+    float: initial;
+ 
+}
+
+.img15{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("ingles5.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img16{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("ingles6.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}

@@ -273,3 +273,22 @@ float: center;
     float: center;   
  
 }
+
+.img27{
+
+    height: 400px;
+    width: 300px;
+    background-image: url("triangulodePauli.jpg");
+    background-repeat: no-repeat; 
+    float: inline-start;     
+}
+
+.img28{
+
+    height: 200px;
+    width: 400px;
+    background-image: url("configuracionElectronica.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}

@@ -292,3 +292,12 @@ float: center;
     float: center;
 
 }
+
+.img29{
+
+    height: 200px;
+    width: 400px;
+    background-image: url("suma-función-suma-.htm");
+    background-repeat: no-repeat; 
+    float: center;
+}

@@ -293,11 +293,37 @@ float: center;
 
 }
 
+
 .img29{
 
-    height: 200px;
-    width: 400px;
-    background-image: url("suma-función-suma-.htm");
+    height: 900px;
+    width: 1900px;
+    background-image: url("sumaEXCEL.jfif");
     background-repeat: no-repeat; 
     float: center;
+
+
+}
+
+
+.img30{
+
+    height: 400px;
+    width: 800px;
+    background-image: url("Ejemplo-promedio-Excel.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+
+.img31{
+
+    height: 200px;
+    width: 800px;
+    background-image: url("buscarv.jfif");
+    background-repeat: no-repeat; 
+    float: center;
+
+
 }

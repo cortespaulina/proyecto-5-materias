@@ -327,3 +327,32 @@ float: center;
 
 
 }
+
+
+.img32{
+
+    height: 700px;
+    width: 1300px;
+    background-image: url("ia.webp");
+    background-repeat: no-repeat; 
+    float: inline-start;
+
+}
+
+.img33{
+    height: 1000px;
+    width: 1100px;
+    background-image: url("scout.jpeg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img34{
+
+    height: 1100px;
+    width: 1000px;
+    background-image: url("barrio.jpeg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}

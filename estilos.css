@@ -356,3 +356,24 @@ float: center;
     float: center;
 
 }
+
+.img35{
+
+    height: 1100px;
+    width: 1000px;
+    background-image: url("fecundacion2.0.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+
+.img36{
+
+    height: 1100px;
+    width: 1000px;
+    background-image: url("embrionario.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}

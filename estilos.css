@@ -293,87 +293,14 @@ float: center;
 
 }
 
-
 .img29{
 
-    height: 900px;
-    width: 1900px;
-    background-image: url("sumaEXCEL.jfif");
-    background-repeat: no-repeat; 
-    float: center;
-
-
-}
-
-
-.img30{
-
-    height: 400px;
-    width: 800px;
-    background-image: url("Ejemplo-promedio-Excel.jpg");
-    background-repeat: no-repeat; 
-    float: center;
-
-}
-
-
-.img31{
-
     height: 200px;
-    width: 800px;
-    background-image: url("buscarv.jfif");
+    width: 400px;
+    background-image: url("ingless");
     background-repeat: no-repeat; 
     float: center;
 
 
-}
-
-
-.img32{
-
-    height: 700px;
-    width: 1300px;
-    background-image: url("ia.webp");
-    background-repeat: no-repeat; 
-    float: inline-start;
-
-}
-
-.img33{
-    height: 1000px;
-    width: 1100px;
-    background-image: url("scout.jpeg");
-    background-repeat: no-repeat; 
-    float: center;
-}
-
-.img34{
-
-    height: 1100px;
-    width: 1000px;
-    background-image: url("barrio.jpeg");
-    background-repeat: no-repeat; 
-    float: center;
-
-}
-
-.img35{
-
-    height: 1100px;
-    width: 1000px;
-    background-image: url("fecundacion2.0.jpg");
-    background-repeat: no-repeat; 
-    float: center;
-
-}
-
-
-.img36{
-
-    height: 1100px;
-    width: 1000px;
-    background-image: url("embrionario.jpg");
-    background-repeat: no-repeat; 
-    float: center;
 
 }

@@ -295,12 +295,61 @@ float: center;
 
 .img29{
 
-    height: 200px;
-    width: 400px;
-    background-image: url("ingless");
+    height: 400px;
+    width: 600px;
+    background-image: url("I.avif");
     background-repeat: no-repeat; 
     float: center;
 
+}
+
+.img30{
+
+    height: 500px;
+    width: 1000px;
+    background-image: url("i3.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img31{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("i4.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img32{
+
+    height: 600px;
+    width: 1000px;
+    background-image: url("violencia.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img33{
+
+    height: 800px;
+    width: 2000px;
+    background-image: url("identidad.webp");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img34{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("igualdad.png");
+    background-repeat: no-repeat; 
+    float: center;
 
 
 }
